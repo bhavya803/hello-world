@@ -1,4 +1,11 @@
 # hello-world
 to create a hello world program  
-i am making this for learning the github
-and this is my first ever experience
+public class helloworld {
+
+	public static void main(String[] args) {
+		System.out.println("hello world");
+
+	}
+
+}
+
